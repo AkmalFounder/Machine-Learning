@@ -1,0 +1,28 @@
+week 1
+https://drive.google.com/file/d/12JFPRMfqz6Wh9xX458CpbamO_5Wm20rJ/view
+
+week 2
+https://drive.google.com/file/d/1x-E6EiVVrd6D3kMEPneHjoElYZyipiNU/view
+
+week 3
+https://drive.google.com/file/d/1TLK1Dn1HmN7pQc8jxTBU1Tc0LtN2WXF-/view
+
+week 4
+https://drive.google.com/file/d/1qM9qMyQzI_FL55PlBnPi7dayiiQH2tJt/view
+https://drive.google.com/file/d/14_SUniY2YridxLiOfE39cM2el59W1SJ9/view
+
+week 5
+https://drive.google.com/file/d/1p2DIzDJ6pEAt5OYL1Gv4kwfNjZQiTQ8z/view
+
+week 6
+https://drive.google.com/file/d/1hM-XDsYE9FM26ZRleacnDKc5jZpTVo4x/view
+
+week 7
+https://drive.google.com/file/d/110QhNDN10-XKbJri7bCusc21GJT0CkLP/view
+
+week 8  Essemble Learning
+https://www.youtube.com/watch?v=wVRidHbwLB0&list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&index=40 (intro)
+https://www.youtube.com/watch?v=pWSULhaZlQM&list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&index=42 (Bagging)
+https://www.youtube.com/watch?v=r5C3TUIw6Zk&list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&index=45 (Random Forrest)
+https://www.youtube.com/watch?v=LxcGKNV5-p4&list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&index=43 (Boosting)
+https://www.youtube.com/watch?v=8T2emza6g80&list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&index=46 (Stacking)
